@@ -1,0 +1,17 @@
+variable "subscription_id" {}
+variable "tenant_id" {}
+variable "client_id" {}
+variable "client_secret" {}
+variable "region" {}
+variable "resource_group_name" {}
+variable "vnet_name" {}
+variable "vnet_range" {}
+variable "subnet_name" {}
+variable "subnet_range" {}
+variable "nic_name" {}
+variable "pip_name" {}
+variable "nsg_name" {}
+variable "vm_name" {}
+variable "vm_size" {}
+variable "admin_username" {}
+variable "admin_password" {}
